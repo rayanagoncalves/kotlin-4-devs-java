@@ -16,6 +16,7 @@ fun myMathFunction(number1: Int, number2: Int): Int {
 fun myExpressionBodyFunction(number1: Int, number2: Int): Int = number1+number2
 
 fun myExpressionBodyFunctionWithInference(number1: Int, number2: Int) = number1+number2
+
 fun myFunctionWithDefaults(number1: Int = 1, number2: Int = 5, message: String = "hi"): Int {
     val result = number1+number2
     println(message)
