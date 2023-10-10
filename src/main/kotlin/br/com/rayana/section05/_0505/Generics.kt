@@ -1,4 +1,4 @@
-package br.com.rayana.section5._0505
+package br.com.rayana.section05._0505
 
 fun main() {
     val maxInt = max(42, 49)

@@ -1,4 +1,4 @@
-package br.com.rayana.section5._0504
+package br.com.rayana.section05._0504
 
 class Car : Vehicle {
 

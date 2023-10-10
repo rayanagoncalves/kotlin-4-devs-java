@@ -1,4 +1,4 @@
-package br.com.rayana.section5._0503
+package br.com.rayana.section05._0503
 
 fun main() {
     val location1 = object {

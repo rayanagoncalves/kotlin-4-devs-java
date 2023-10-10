@@ -1,4 +1,4 @@
-package br.com.rayana.section5._0505
+package br.com.rayana.section05._0505
 
 fun <T: Comparable<T>> max(param1: T, param2: T): T {
 
